@@ -3,7 +3,7 @@
     package="com.example.muzeylar_haqinda">
 
     <application
-        android:label="muzeylar_haqinda"
+        android:label="MuzeyInfo"
         android:icon="@mipmap/app_icon"> <!-- Bu yerda iconni o'zgartirdik -->
         <activity
             android:name=".MainActivity"
